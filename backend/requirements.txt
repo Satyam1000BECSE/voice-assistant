@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pyttsx3
+wikipedia
+pywhatkit
+python-multipart
+pydantic
+SpeechRecognition
+pyaudio
